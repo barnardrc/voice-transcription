@@ -1,2 +1,5 @@
+numpy
+onnxruntime
+pywhispercpp
+scipy
 sounddevice
-webrtcvad

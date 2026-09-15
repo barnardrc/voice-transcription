@@ -1,0 +1,29 @@
+# Generated models and biometric-derived data
+*.onnx
+*.ckpt
+*.npy
+model_cache/
+model_local/
+
+# Audio and transcripts
+*.wav
+*.flac
+*.mp3
+transcripts/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
